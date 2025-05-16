@@ -55,3 +55,10 @@ To run the project locally:
 
    ```bash
    git clone https://github.com/upadhyaykartikeya/Quick_Rent.git
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd Quick Rent
+   
+3. **Open index.html in your preferred web browser.**
